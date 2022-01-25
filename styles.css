@@ -1,0 +1,190 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.navbar-section {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: red;
+
+  padding: 10px 25px;
+}
+
+.ticket-details {
+  margin-left: 5px;
+  color: white;
+}
+.fas {
+  color: white;
+}
+
+.ticket-section {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+.banner-section {
+  background-color: #060e0dee;
+}
+
+.banner-section_content {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px 30px;
+}
+
+.section-price p {
+  color: gray;
+}
+
+.section-price h2 {
+  color: white;
+}
+
+.section-amount_date {
+  color: gray;
+}
+
+.section-amount h2 {
+  color: green;
+}
+
+.section-amount_price {
+  color: green;
+}
+
+#style-one {
+  background: #fff;
+  border: 0;
+  height: 1px;
+  width: 90%;
+  margin: 0 auto;
+}
+
+.detail-section {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px 30px;
+}
+
+.detail-content {
+  color: gray;
+}
+
+.main-footer {
+  padding: 15px;
+  display: inline;
+}
+
+.detail-price {
+  color: white;
+}
+
+.detail-show {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px 30px;
+}
+
+.detail-message {
+  color: white;
+  font-size: larger;
+}
+
+.detail-button {
+  background-color: #e29c1aa2;
+  color: white;
+  padding: 10px 25px;
+  border: none;
+  outline: none;
+}
+
+#style-two {
+  background: rgb(82, 79, 79);
+  border: 0;
+  height: 1px;
+  width: 90%;
+  margin: 0 auto;
+}
+
+.footer-record {
+  margin-left: 40%;
+  width: 100%;
+}
+
+.footer-info {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px 30px;
+  margin: 0 auto;
+}
+
+.check-content {
+  background-color: green;
+  border-radius: 50%;
+  padding: 5px 10px;
+}
+
+.footer-record_time {
+  color: gray;
+}
+
+.footer-record_tracker {
+  color: green;
+  font-size: large;
+}
+
+.footer-record_score {
+  color: gray;
+  display: flex;
+}
+
+.origin {
+  color: black;
+  display: flex;
+}
+
+.footer-club {
+  display: flex;
+  align-items: center;
+}
+
+.footer-record_time {
+  display: flex;
+}
+
+.footer-market {
+  background-color: #efefef;
+  padding-left: 10px;
+  padding-right: 20px;
+  width: 100%;
+}
+
+.footer-indo {
+  padding-right: 20px;
+
+  width: 100%;
+}
+
+.footer-info_content {
+  width: 100%;
+}
+
+.last-footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 20px;
+}
+
+.bet-details h3 {
+  color: green;
+}
