@@ -56,6 +56,8 @@
 
 .section-amount_price {
   color: green;
+  font-size: larger;
+  font-weight: 900;
 }
 
 #style-one {
@@ -100,10 +102,12 @@
 
 .detail-button {
   background-color: #e29c1aa2;
-  color: white;
+  color: rgb(20, 17, 17);
   padding: 10px 25px;
   border: none;
   outline: none;
+  font-weight: 600;
+  font-size: larger;
 }
 
 #style-two {
